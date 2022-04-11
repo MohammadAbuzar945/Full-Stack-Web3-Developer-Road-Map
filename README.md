@@ -11,14 +11,14 @@ How to become a Web3 Frontend Developer. Roadmap for next 3 months:
 		    → Svelt
 ### 4. Basics of Blockchain Web3 is mainly usual Web + Blockchain
 ### 5 .Smart Contracts: 
-      Smart contracts are the programs that run on Ethereum. 	
-  -> __Solidity__ 
+     	 Smart contracts are the programs that run on Ethereum. 	
+  		-> Solidity 
 ### 6. Interact Frontend with Blockchain 
-    To communicate between Ethereum and apps choose between 	
-   **Web3js** or **EthersJS** library.   
-    I prefer Ethers. But you'll find more 	resources about Web3js because it's the oldest.
+    	To communicate between Ethereum and apps choose between 	
+   		Web3js or EthersJS library.   
+    	I prefer Ethers. But you'll find more resources about Web3js because it's the oldest.
 ### 7. Web3 Tools 
 	These tools will make your developer's life easier: 
-   →**HardHat or Truffle** are used to test, debug, and deploy your smart contracts. 	
-   →**Moralis SDK and UI Kits** to save time building projects 
-   →**Alchemy or Infura** for Blockchain infrastructures (like Web3 AWS) At the End Build Your Portfolio
+  	→HardHat or Truffle are used to test, debug, and deploy your smart contracts. 	
+   	→Moralis SDK and UI Kits to save time building projects 
+   	→Alchemy or Infura for Blockchain infrastructures (like Web3 AWS) At the End Build Your Portfolio
