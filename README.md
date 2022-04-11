@@ -18,6 +18,7 @@ How to become a Web3 Frontend Developer. Roadmap for next 3 months:
      	 Smart contracts are the programs that run on Ethereum. 	
   		-> Solidity 
 		https://t.co/zp3AVriwG0
+		https://www.codiesalert.com/courses/free-solidity-course/
 ### 6. Interact Frontend with Blockchain 
     	To communicate between Ethereum and apps choose between 	
    		Web3js or EthersJS library.   
